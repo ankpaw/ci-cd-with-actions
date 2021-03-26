@@ -7,6 +7,7 @@ on:
 env:
   owner: ankpaw
   domain: github.io
+  repo: actions-workshop-prod
 jobs:
   deploy-dev-test:
     name: Deploy to Dev test environment
